@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Nitya A Kolli
+_Rising Sophomore, Allen High School (Class of 2025), Allen TX_ <br>
 
-You can use the [editor on GitHub](https://github.com/nityakolli/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Email](mailto:nitya.kolli@gmail.com) / [Website](https://nityakolli.com/) / [LinkedIn](https://www.linkedin.com/in/nityakolli/) / [GitHub](https://github.com/nityakolli/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+## AP and Honors Course Work
+  - AP Human Geography, AP Biology, AP World History
+  - Honors in Chemistry, Biology, Geometry, Algebra, PreCalculus, Spanish
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## College Courses
+  - CS50: Introduction to Computer Science, Harvard University
+  - Introduction to Web Design, John Hopkins Center for Talented Youth
+  
+## STEM Activities
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Volunteering
+**Volunteer Juror, Teen Court Academy, City of Allen, TX**
+<br>_May 2022 - Present_
+- Served at multiple trials as juror/prosecutor/defense lawyer earning more than 20 hours of volunteer hours
+- Responsibilities include act as a Juror assessing a sentence of community service for Juvenile Class C misdemeanor defendants following the guidelines set by the Municipal Court, act as defense and/or prosecution as required.
 
-- Bulleted
-- List
+**Volunteer, Allen Food Pantry, Allen TX**
+<br>_May 2021 - Present_
+- Earned 50+ hours Volunteering at the food pantry once a month distributing food
+- Work on bringing the client data base online
+- Mobile app layout for the food pantry
 
-1. Numbered
-2. List
+## Extra Curricular Activities
+**Art**
 
-**Bold** and _Italic_ and `Code` text
+**Music**
 
-[Link](url) and ![Image](src)
-```
+**Sports**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Clubs**
+- Key Club Member
+- DECA Club Member
+- Computer Science Club Member
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nityakolli/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Awards and Honors
+- National Junior Honor Society ( 2021)
