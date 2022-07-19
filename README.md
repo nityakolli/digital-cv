@@ -14,15 +14,18 @@ _Rising Sophomore, Allen High School (Class of 2025), Allen TX_ <br>
   - Introduction to Web Design, John Hopkins Center for Talented Youth
   
 ## Tools
-
+  - **Programming Languages**: Python
+  - **Web Development**: HTML, CSS, Java Script
+  - **Editors**: Vim, Visual studio Code
+  - **Other**: Git
 
 ## STEM Activities
-**Virtual Shadowing, www.virtualshadowing.com, Richardson, TX**				
-<br>_May 2022 – Present_
+**Virtual Shadowing, www.virtualshadowing.com, Richardson, TX**
+<br>_May 2022 – Present_<br>
 Attend various virtual shadowing sessions hosted by this Dallas based group during the summer to further my interest in medicine.
 - Hematology and Oncology Session 101 by Dr. Sanjay Juneja 
 
-**Generation Tech Challenge, JPMorgan Chase**			                      
+**Generation Tech Challenge, JPMorgan Chase**
 <br>_April 2022_
 - As part of this challenge, I worked with fellow participants and designed a mobile application for a nonprofit that promotes inclusive and equitable quality education and promote lifelong learning opportunities to counter the 20 years of education gains wiped out by Covid-19
 - Won first place
